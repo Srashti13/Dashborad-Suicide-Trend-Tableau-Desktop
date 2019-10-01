@@ -5,6 +5,10 @@ Created visualization in tableau desktop for the academic course 515: Data visua
  
 ![Dashboardpic](Pics/SuicideDashboard.PNG)
 
+
+![Dashboardpic](Pics/Dashboardpic.PNG)
+
+
 World map shows which countries have the highest suicide rate. Russia Federation followed by USA are the top 2 countries. The darker the color of the country, the more the suicide cases reported. You can toggle between trend or world map.
 
 We can also check the trend of suicide by Age, generation and sex. which generation affected the most with suicide, how many males and females and of what age suffered the most
